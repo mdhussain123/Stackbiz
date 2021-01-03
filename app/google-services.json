@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952069784930",
+    "project_id": "fir-aythbyhussain",
+    "storage_bucket": "fir-aythbyhussain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952069784930:android:5e4b4e6bd64a98a8f6d83b",
+        "android_client_info": {
+          "package_name": "com.stackmybiz.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952069784930-ulb9u173r3ofg7avqsc3e2vfcvnp3b79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUfjy5dTqNV0WhIDqReBFDNUoEzC7EDhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952069784930-ulb9u173r3ofg7avqsc3e2vfcvnp3b79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
